@@ -20,7 +20,4 @@ const count: Ref<number> = ref(0);
 </template>
 
 <style scoped>
-.read-the-docs {
-  color: #888;
-}
 </style>
